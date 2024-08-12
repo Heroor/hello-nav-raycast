@@ -6,10 +6,6 @@ export interface AppItem {
   keywords?: string[];
   darkInvert?: true;
   lessRadius?: true;
-  favorite?: boolean;
-  hidden?: boolean;
-  first?: boolean;
-  final?: boolean;
 }
 
 export interface CateItem {
